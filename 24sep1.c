@@ -1,0 +1,16 @@
+//printf jor bijor using loop
+#include<stdio.h>
+int main()
+{
+    int i,n;
+    scanf("%d",&n);
+    for(i=1; i<=n; i++)
+    {
+     if(i%2==0)
+       printf("%d = jor\n",i);
+     /*else
+        printf("%d = bijor\n",i);*/
+
+    }
+    return 0;
+}
