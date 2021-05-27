@@ -1,1 +1,1 @@
-# super-couscous
+basic problem using c
